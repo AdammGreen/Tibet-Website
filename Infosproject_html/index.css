@@ -1,0 +1,1005 @@
+h1{
+   font:oblique bold small-caps 5em Lobster;
+   text-align: center;
+   line-height: 4em;
+   text-shadow: red;
+   
+
+background-image: url(Images/Hompage/lotus.png) ;
+background-attachment:local;
+background-position: top left;
+background-position-y: 0.4em;
+
+background-repeat: no-repeat;
+background-size: 225px;
+
+
+
+
+}
+
+
+.header{ 
+background-image: url(Images/Hompage/TibetFlag.png);
+background-attachment:local;
+background-position: top right;
+background-repeat: no-repeat;
+background-position-y: 0.6em;
+background-size: 300px;
+
+
+
+   
+
+}
+
+.flags{
+background-image: url(Images/Hompage/flags.jpeg);
+background-repeat: no-repeat;
+background-position: center;
+width: 100%;
+height: 100%;
+background-size: cover;
+background-blend-mode:lighten;
+
+}
+
+
+
+
+h2{
+    font:bold 3em Lobster;
+  
+}
+
+h3{
+    font:bold 2em Lobster;
+}
+
+h4{
+    text-align: center;
+    text-decoration: none;
+    border-width: 0.5em;
+    border-style: solid;
+    border-color: red;
+    background-color: red;
+    font-size:large;
+   
+}
+
+body{
+    background-color:#FFD580 ; 
+}
+
+p{
+    font-size: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    color:black;
+  }
+
+  p::first-letter {
+    font-size: 150%;
+   
+    font-style: italic;
+  }  
+
+aside{
+    font: 1.5em Lobster;
+    font-weight:100;
+    font-style: oblique;
+}
+
+/*nav bar*/
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: red;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+   padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color:lightcoral;
+  }
+  /*nav bar*/
+
+
+
+  
+  
+  
+/*boxes*/ 
+    main{
+       background-image: url(Images/Hompage/vajrasticker.png) ;
+       
+       background-attachment: fixed;
+       background-position: center;
+       background-repeat: no-repeat;
+       background-size: 300px;
+
+    }
+   
+    .main{
+       
+        width: 75%;
+         height: 500px;  
+         padding: 5px;
+         border: 4px solid red;
+         overflow:scroll;
+        background-color: coral;
+        margin: 2em;
+        margin-top: 4em;
+        margin-bottom: 4em;
+    }
+
+    .main2{
+        width: 75%;
+        height: 500px;  
+        padding: 25px;
+        border: 4px solid red;
+        overflow:scroll;
+       background-color: coral;
+       margin: 2em;
+        margin-top: 4em;
+        margin-bottom: 4em;
+   }
+
+   .main3{
+    width: 75%;
+    height: 350px;  
+    padding: 25px;
+    border: 4px solid red;
+    overflow:scroll;
+   background-color: coral;
+   margin: 2em;
+   margin-top: 4em;
+   margin-bottom: 4em;
+}
+ /*boxes*/ 
+
+ /*boxespage2*/
+ .box1{
+    width: 75%;
+    height: 750px;  
+    padding: 25px;
+    border: 4px solid red;
+    overflow:scroll;
+   background-color: coral;
+   margin: 2em;
+        margin-top: 4em;
+        margin-bottom: 4em;
+}
+
+.box2{
+    width: 75%;
+    height: 1300px;  
+    padding: 25px;
+    border: 4px solid red;
+    overflow:scroll;
+   background-color: coral;
+   margin: 2em;
+        margin-top: 4em;
+        margin-bottom: 4em;
+}
+
+
+
+.box6{
+    width: 75%;
+    height: 400px;  
+    padding: 25px;
+    border: 4px solid red;
+    overflow:scroll;
+   background-color: coral;
+   margin: 2em;
+        margin-top: 4em;
+        margin-bottom: 4em;
+}
+
+.box7{
+    width: 75%;
+    height: 350px;  
+    padding: 25px;
+    border: 4px solid red;
+    overflow:scroll;
+   background-color: coral;
+   margin: 2em;
+        margin-top: 4em;
+        margin-bottom: 4em;
+}
+
+.box8{
+    width: 75%;
+    height: 800px;  
+    padding: 25px;
+    border: 4px solid red;
+    overflow:scroll;
+   background-color: coral;
+   margin: 2em;
+        margin-top: 4em;
+        margin-bottom: 4em;
+}
+
+
+
+.box10{
+    width: 75%;
+    height: 400px;  
+    padding: 25px;
+    border: 4px solid red;
+    overflow:scroll;
+   background-color: coral;
+   margin: 2em;
+        margin-top: 4em;
+        margin-bottom: 4em;
+}
+ /*boxespage2*/
+
+ 
+ 
+ /*boxespage3*/
+ .hike1{
+    width: 75%;
+    height: 600px;  
+    padding: 25px;
+    border: 4px solid red;
+    overflow:scroll;
+   background-color: coral;
+   margin: 2em;
+        margin-top: 4em;
+        margin-bottom: 4em;
+}
+
+.hike2{
+    width: 75%;
+    height: 300px;  
+    padding: 25px;
+    border: 4px solid red;
+    overflow:scroll;
+   background-color: coral;
+   margin: 2em;
+        margin-top: 4em;
+        margin-bottom: 4em;
+}
+
+.hike3{
+    width: 75%;
+    height: 300px;  
+    padding: 25px;
+    border: 4px solid red;
+    overflow:scroll;
+   background-color: coral;
+   margin: 2em;
+        margin-top: 4em;
+        margin-bottom: 4em;
+}
+
+.hike4{
+    width: 75%;
+    height: 500px;  
+    padding: 25px;
+    border: 4px solid red;
+    overflow:scroll;
+   background-color: coral;
+   margin: 2em;
+        margin-top: 4em;
+        margin-bottom: 4em;
+}
+
+.hike5{
+    width: 75%;
+    height: 450px;  
+    padding: 25px;
+    border: 4px solid red;
+    overflow:scroll;
+   background-color: coral;
+   margin: 2em;
+        margin-top: 4em;
+        margin-bottom: 4em;
+}
+
+.hike6{
+    width: 75%;
+    height: 550px;  
+    padding: 25px;
+    border: 4px solid red;
+    overflow:scroll;
+   background-color: coral;
+   margin: 2em;
+        margin-top: 4em;
+        margin-bottom: 4em;
+}
+ /*boxespage3*/
+
+ /*boxespage4*/
+
+ .d1{
+    width: 75%;
+    height: 500px;  
+    padding: 25px;
+    border: 4px solid red;
+    overflow:scroll;
+   background-color: coral;
+   margin: 2em;
+        margin-top: 4em;
+        margin-bottom: 4em;
+}
+
+.d2{
+    width: 75%;
+    height: 350px;  
+    padding: 25px;
+    border: 4px solid red;
+    overflow:scroll;
+   background-color: coral;
+   margin: 2em;
+        margin-top: 4em;
+        margin-bottom: 4em;
+}
+
+.d3{
+    width: 75%;
+    height: 450px;  
+    padding: 25px;
+    border: 4px solid red;
+    overflow:scroll;
+   background-color: coral;
+   margin: 2em;
+        margin-top: 4em;
+        margin-bottom: 4em;
+}
+
+.d4{
+    width: 75%;
+    height: 800px;  
+    padding: 25px;
+    border: 4px solid red;
+    overflow:scroll;
+   background-color: coral;
+   margin: 2em;
+        margin-top: 4em;
+        margin-bottom: 4em;
+}
+/*boxespage4*/
+
+/*boxespage5*/
+.c1{
+    width: 75%;
+    height: 600px;  
+    padding: 25px;
+    border: 4px solid red;
+    overflow:scroll;
+   background-color: coral;
+   margin: 2em;
+        margin-top: 4em;
+        margin-bottom: 4em;
+}
+
+.c2{
+    width: 75%;
+    height: 500px;  
+    padding: 25px;
+    border: 4px solid red;
+    overflow:scroll;
+   background-color: coral;
+   margin: 2em;
+        margin-top: 4em;
+        margin-bottom: 4em;
+}
+
+.c3{
+    width: 75%;
+    height: 300px;  
+    padding: 25px;
+    border: 4px solid red;
+    overflow:scroll;
+   background-color: coral;
+   margin: 2em;
+        margin-top: 4em;
+        margin-bottom: 4em;
+}
+
+.c4{
+    width: 75%;
+    height: 450px;  
+    padding: 25px;
+    border: 4px solid red;
+    overflow:scroll;
+   background-color: coral;
+   margin: 2em;
+        margin-top: 4em;
+        margin-bottom: 4em;
+}
+
+.c5{
+    width: 75%;
+    height: 350px;  
+    padding: 25px;
+    border: 4px solid red;
+    overflow:scroll;
+   background-color: coral;
+   margin: 2em;
+        margin-top: 4em;
+        margin-bottom: 4em;
+
+}
+
+/*boxespage5*/
+
+.aside1{
+    width: 700px;
+    height: 700px;  
+    padding: 25px;
+    border: 4px solid black;
+    overflow:scroll;
+   background-color:darkgray;
+
+}
+
+
+
+.aside2{
+    width: 700px;
+    height: 950px;  
+    padding: 25px;
+    border: 4px solid black;
+    overflow:scroll;
+   background-color:darkgray;
+
+}
+
+.aside3{
+    width: 400px;
+    height: 300px;  
+    padding: 25px;
+    border: 4px solid black;
+    overflow:scroll;
+   background-color:darkgray;
+
+}
+
+img{
+    margin-left: 2em;
+    border-style: solid;
+    border-color: orangered;
+    border-width: 1em;
+}
+
+em{
+font-weight: 500;
+}
+
+strong{
+font-weight: 700;
+}
+
+b{
+font-weight: 600;
+}
+
+i{
+font-weight: lighter;
+}
+
+/* responsive web design*/
+
+img{
+    max-width: 100%;
+}
+
+@media screen and (oreientation:landscape) {
+    body{
+        background:#FFD580  ;
+    }
+}
+
+@media screen and (oreientation: portrait) {
+    body{
+        background: white;
+    }
+}
+
+@media print{
+    p{
+        font-family: arial ;
+        }
+}
+
+@media screen and (min-width:40em) {
+    
+    p{
+    font-family: arial ;
+    }
+}
+
+@media (max-width: 800px) {
+    .flex-container {
+      flex-direction: column;
+    }
+
+}
+
+/*grid   struggling to place on grid. all grids work minus the navigation bar, h1 heading and images up top. 
+I dont know how to layer correctly and near other items on the grid*/
+
+/*grid homepage almost works*/
+
+/*#container {
+    display: grid; 
+ 
+    grid-template-rows: 4rem auto 45px 1fr;
+    grid-template-columns: auto 1fr;
+    
+    gap: 3px;
+    height: 100%;
+    
+ }
+   
+ #flags {
+ 
+    background-color: #a3a3a3; 
+    grid-row-start: 1;
+    grid-column-start: 1;
+ 
+    grid-row-end: 2;
+    grid-column-end: 3;
+    
+ }
+
+ #header{
+ 
+    background-color: #a3a3a3; 
+    grid-row-start: 1;
+    grid-column-start: 1;
+ 
+    grid-row-end: 2;
+    grid-column-end: 3;
+    
+ }
+
+#nav{
+    background-color: #a3a3a3; 
+    grid-row-start: 1;
+    grid-column-start: 1;
+ 
+    grid-row-end: 2;
+    grid-column-end: 3;
+    
+}
+
+
+ #main {
+ 
+    background-color: #d0d9e6; 
+    grid-row-start: 2;
+    grid-column-start: 1;
+ 
+    grid-row-end: 3;
+    grid-column-end: 3;
+    
+ }
+ #main2 {
+ 
+    background-color: #bf977b; 
+    grid-row-start: 4;
+    grid-column-start: 1;
+ 
+    grid-row-end: 5;
+    grid-column-end: 3;
+    
+ }
+ #main3 {
+ 
+    background-color: #776e6d; 
+    grid-row-start: 3;
+    grid-column-start: 1;
+ 
+    grid-row-end: 4;
+    grid-column-end: 3;
+    
+ }
+
+ */
+
+ /*hiking page grid*/
+/*
+ 
+ #container {
+    display: grid; 
+ 
+    grid-template-rows: 60px 70px 600px 500px 600px 600px 600px;
+    grid-template-columns: auto;
+    
+    gap: 0px;
+    height: 100%;
+    
+ }
+   
+ #flags {
+ 
+    background-color: #000333; 
+    grid-row-start: 1;
+    grid-column-start: 1;
+ 
+    grid-row-end: 2;
+    grid-column-end: 2;
+    
+ }
+ #header {
+ 
+    background-color: #ffffff; 
+    grid-row-start: 3;
+    grid-column-start: 1;
+ 
+    grid-row-end: 4;
+    grid-column-end: 2;
+    
+ }
+ #nav {
+ 
+    background-color: #4e9525; 
+    grid-row-start: 2;
+    grid-column-start: 1;
+ 
+    grid-row-end: 3;
+    grid-column-end: 2;
+    
+ }
+ #hike1 {
+ 
+    background-color: #dedede; 
+    grid-row-start: 4;
+    grid-column-start: 1;
+ 
+    grid-row-end: 5;
+    grid-column-end: 2;
+    
+ }
+ #hike2 {
+ 
+    background-color: #5ba679; 
+    grid-row-start: 5;
+    grid-column-start: 1;
+ 
+    grid-row-end: 6;
+    grid-column-end: 2;
+    
+ }
+ #hike3 {
+ 
+    background-color: #89da95; 
+    grid-row-start: 6;
+    grid-column-start: 1;
+ 
+    grid-row-end: 7;
+    grid-column-end: 2;
+    
+ }
+ #hike4 {
+ 
+    background-color: #000000; 
+    grid-row-start: 7;
+    grid-column-start: 1;
+ 
+    grid-row-end: 8;
+    grid-column-end: 2;
+
+*/
+
+ /*grid buddhismpage*/
+
+ /*
+#container {
+   display: grid; 
+
+   grid-template-rows: 4rem auto 45px 1fr 1fr 1fr 1fr 1fr 1fr;
+   grid-template-columns: auto 1fr;
+   
+   gap: 3px;
+   height: 100%;
+   
+}
+  
+#box1 {
+
+   background-color: #a3a3a3; 
+   grid-row-start: 1;
+   grid-column-start: 1;
+
+   grid-row-end: 2;
+   grid-column-end: 3;
+   
+}
+#box2 {
+
+   background-color: #d0d9e6; 
+   grid-row-start: 2;
+   grid-column-start: 1;
+
+   grid-row-end: 3;
+   grid-column-end: 3;
+   
+}
+#box3 {
+
+   background-color: #bf977b; 
+   grid-row-start: 4;
+   grid-column-start: 1;
+
+   grid-row-end: 5;
+   grid-column-end: 3;
+   
+}
+#box4 {
+
+   background-color: #776e6d; 
+   grid-row-start: 3;
+   grid-column-start: 1;
+
+   grid-row-end: 4;
+   grid-column-end: 3;
+   
+}
+#box5 {
+
+   background-color: #65E9B5; 
+   grid-row-start: 5;
+   grid-column-start: 1;
+
+   grid-row-end: 6;
+   grid-column-end: 3;
+   
+}
+#box6 {
+
+   background-color: #A865E5; 
+   grid-row-start: 6;
+   grid-column-start: 1;
+
+   grid-row-end: 7;
+   grid-column-end: 3;
+   
+}
+#box7 {
+
+   background-color: #BDCC8D; 
+   grid-row-start: 7;
+   grid-column-start: 1;
+
+   grid-row-end: 8;
+   grid-column-end: 3;
+   
+}
+#box8 {
+
+   background-color: #B76E5D; 
+   grid-row-start: 8;
+   grid-column-start: 1;
+
+   grid-row-end: 9;
+   grid-column-end: 3;
+   
+}
+#box9 {
+
+   background-color: #B96DAD; 
+   grid-row-start: 9;
+   grid-column-start: 1;
+
+   grid-row-end: 10;
+   grid-column-end: 3;
+}
+ 
+/*dalia lama page*/
+/*
+#container {
+    display: grid; 
+ 
+    grid-template-rows: 60px 70px 600px 500px 600px 600px 600px 1fr;
+    grid-template-columns: auto;
+    
+    gap: 0px;
+    height: 100%;
+    
+ }
+   
+ #flags {
+ 
+    background-color: #000333; 
+    grid-row-start: 1;
+    grid-column-start: 1;
+ 
+    grid-row-end: 2;
+    grid-column-end: 2;
+    
+ }
+ #header {
+ 
+    background-color: #ffffff; 
+    grid-row-start: 3;
+    grid-column-start: 1;
+ 
+    grid-row-end: 4;
+    grid-column-end: 2;
+    
+ }
+ #nav {
+ 
+    background-color: #4e9525; 
+    grid-row-start: 2;
+    grid-column-start: 1;
+ 
+    grid-row-end: 3;
+    grid-column-end: 2;
+    
+ }
+ #d1 {
+ 
+    background-color: #dedede; 
+    grid-row-start: 4;
+    grid-column-start: 1;
+ 
+    grid-row-end: 5;
+    grid-column-end: 2;
+    
+ }
+ #d2 {
+ 
+    background-color: #5ba679; 
+    grid-row-start: 5;
+    grid-column-start: 1;
+ 
+    grid-row-end: 6;
+    grid-column-end: 2;
+    
+ }
+ #d3 {
+ 
+    background-color: #89da95; 
+    grid-row-start: 6;
+    grid-column-start: 1;
+ 
+    grid-row-end: 7;
+    grid-column-end: 2;
+    
+ }
+ #aside2 {
+ 
+    background-color: #000000; 
+    grid-row-start: 7;
+    grid-column-start: 1;
+ 
+    grid-row-end: 8;
+    grid-column-end: 2;
+    
+ }
+ #d4 {
+ 
+    background-color: #BFFB7B; 
+    grid-row-start: 8;
+    grid-column-start: 1;
+ 
+    grid-row-end: 9;
+    grid-column-end: 2;
+ }
+*/
+
+/*china page*/
+
+/*
+#container {
+    display: grid; 
+ 
+    grid-template-rows: 60px 70px 600px 500px 600px 600px 600px 1fr;
+    grid-template-columns: auto;
+    
+    gap: 0px;
+    height: 100%;
+    
+ }
+   
+ #flags {
+ 
+    background-color: #000333; 
+    grid-row-start: 1;
+    grid-column-start: 1;
+ 
+    grid-row-end: 2;
+    grid-column-end: 2;
+    
+ }
+ #header {
+ 
+    background-color: #ffffff; 
+    grid-row-start: 3;
+    grid-column-start: 1;
+ 
+    grid-row-end: 4;
+    grid-column-end: 2;
+    
+ }
+ #nav {
+ 
+    background-color: #4e9525; 
+    grid-row-start: 2;
+    grid-column-start: 1;
+ 
+    grid-row-end: 3;
+    grid-column-end: 2;
+    
+ }
+ #c1 {
+ 
+    background-color: #dedede; 
+    grid-row-start: 4;
+    grid-column-start: 1;
+ 
+    grid-row-end: 5;
+    grid-column-end: 2;
+    
+ }
+ #c2 {
+ 
+    background-color: #5ba679; 
+    grid-row-start: 5;
+    grid-column-start: 1;
+ 
+    grid-row-end: 6;
+    grid-column-end: 2;
+    
+ }
+ #c3 {
+ 
+    background-color: #89da95; 
+    grid-row-start: 6;
+    grid-column-start: 1;
+ 
+    grid-row-end: 7;
+    grid-column-end: 2;
+    
+ }
+ #c4 {
+ 
+    background-color: #000000; 
+    grid-row-start: 7;
+    grid-column-start: 1;
+ 
+    grid-row-end: 8;
+    grid-column-end: 2;
+    
+ }
+ #c5 {
+ 
+    background-color: #BFFB7B; 
+    grid-row-start: 8;
+    grid-column-start: 1;
+ 
+    grid-row-end: 9;
+    grid-column-end: 2;
+    
+ }
+
+ #foot {
+
+    background-color: #59A99A; 
+    grid-row-start: 9;
+    grid-column-start: 1;
+ 
+    grid-row-end: 10;
+    grid-column-end: 2;
+    
+ }
+ */
