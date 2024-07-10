@@ -8,4 +8,4 @@ If you want to see the webpage's like a normal website in github. Click on a pag
 
 Change the "raw.githubusercontent.com" to "raw.githubhack.com" and press enter
 
-Viola! You can now see the pages.
+Voila! You can now see the pages.
